@@ -1,0 +1,1 @@
+export { QuickCommerce } from "./QuickCommerce";
